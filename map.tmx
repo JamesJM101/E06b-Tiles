@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.2" tiledversion="1.2.4" orientation="orthogonal" renderorder="right-down" width="25" height="20" tilewidth="64" tileheight="64" infinite="0" backgroundcolor="#1864ab" nextlayerid="3" nextobjectid="1">
+<map version="1.2" tiledversion="1.2.4" orientation="orthogonal" renderorder="right-down" width="41" height="20" tilewidth="64" tileheight="64" infinite="0" backgroundcolor="#1864ab" nextlayerid="9" nextobjectid="1">
  <tileset firstgid="1" name="Tiles" tilewidth="64" tileheight="64" tilecount="30" columns="0">
   <grid orientation="orthogonal" width="1" height="1"/>
   <tile id="0">
@@ -94,14 +94,14 @@
   </tile>
  </tileset>
  <tileset firstgid="31" name="Tiles" tilewidth="1" tileheight="1" tilecount="0" columns="0"/>
- <layer id="1" name="Platforms" width="25" height="20">
+ <layer id="7" name="Platforms" width="41" height="20">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFo2AUjIJRMApGwVAHAAfQAAE=
+   eJztlM0KgCAQBjcPVlhBBb3/o7ZB0h762fJTO7gwlw46jhJRmTJlYkzHGKbPLXIxm9/IOGai/3lKv4ryeJoHpJ8ntadTUF1g9zVqpmFase7Zty9jbvbX4AL318xdIw02gacNdHzT0t+9RPMOQjumaInoGPtdIjrGdkR1RN/3wCw7qI7IlpvfTMe/GdUR1VL6ybMjO4Y4nvn5s6+x0QQ7
   </data>
  </layer>
- <layer id="2" name="Coins" width="25" height="20">
+ <layer id="8" name="Coins" width="41" height="20">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFo2AUjIJRMApGwVAHAAfQAAE=
+   eJxjYBgFo2BoAamBdgAUkOOOgXb7QNtPK4Dur+Hqz1FAHBiN/1EwCqgLpHCwBwMYbO4ZBQMDAN+iAQU=
   </data>
  </layer>
 </map>
